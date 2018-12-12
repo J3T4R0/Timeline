@@ -50,7 +50,7 @@
 	          "credit": "<a href=\"http://google.com\">Unidisc Music</a>"
 	        },
 	        "start_date": {
-	          "year": "1978"
+	          "year": "-520"
 	        },
 	        "text": {
 	          "headline": "2: (51 BC) Julius Caesar Rise To Power & Push For Reforms",
@@ -274,7 +274,7 @@
 	      },
 	      {
 	        "media": {
-	          "url": "http://www.returnofkings.com/wp-content/uploads/2016/07/industrial-revolution.jpg",
+	          "url": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/blogs/wonkblog/files/2016/10/1027_IndustrialRev3_SS.jpg&w=480",
 	          "caption": "Industrial Revolution causes pollution in the cities due to the rising population and Urbanization",
 	          "credit": "http://www.returnofkings.com"
 	        },
